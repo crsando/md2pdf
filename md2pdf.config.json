@@ -1,0 +1,32 @@
+{
+  "contentWidth": "750px",
+  "page": {
+    "size": "A4",
+    "margin": "1.5cm 1cm 2cm 1cm"
+  },
+  "theme": {
+    "name": "default",
+    "primaryColor": "#0F4C81",
+    "fontFamily": "-apple-system-font, BlinkMacSystemFont, \"Helvetica Neue\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei UI\", \"Microsoft YaHei\", Arial, sans-serif",
+    "fontSize": "16px",
+    "lineHeight": "1.75",
+    "blockSpacing": 1,
+    "linkColor": "#576b95",
+    "indent": false,
+    "justify": false
+  },
+  "pageNumber": {
+    "enabled": true,
+    "format": "{n}",
+    "color": "#b4b4b4",
+    "fontSize": "8pt",
+    "gap": "0.4cm"
+  },
+  "math": {
+    "macros": "macros.tex",
+    "tags": "none"
+  },
+  "codeTheme": "github-dark",
+  "macCodeBlock": true,
+  "customCssFile": "custom.css"
+}
